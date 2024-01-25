@@ -1,3 +1,5 @@
+A complete application built using TypeScript, featuring a user-friendly content portal and a powerful backend content management system (CMS).
+
 This is frontend which frontend name zip
 
 Download the zip 
